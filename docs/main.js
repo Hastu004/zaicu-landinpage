@@ -333,7 +333,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
   selectors: [["app-footer"]],
   decls: 102,
   vars: 0,
-  consts: [[1, "footer-area"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-sm-6"], [1, "footer-widget"], [1, "footer-logo"], ["src", "assets/img/logo.png", "alt", "logo"], [1, "footer-link"], ["routerLink", "/"], ["src", "assets/img/google-play.png", "alt", "google image"], ["src", "assets/img/app-store.png", "alt", "google image"], [1, "footer-widget", "pl-90"], ["href", "#"], [1, "flaticon-right"], [3, "click"], ["href", "#", "target", "_blank"], [1, "copyright-area"], [1, "row", "align-items-center"], [1, "col-lg-6", "col-md-4", "lh-1"], ["src", "assets/img/visa.png", "alt", "visa card"], ["src", "assets/img/american-express.png", "alt", "american-express"], ["src", "assets/img/discover.png", "alt", "discover"], ["src", "assets/img/master-card.png", "alt", "master card"], [1, "col-lg-6", "col-md-8", "lh-1"], ["href", "https://hibootstrap.com/", "target", "_blank"]],
+  consts: [[1, "footer-area"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-sm-6"], [1, "footer-widget"], [1, "footer-logo"], ["src", "assets/img/zaicu.png", "alt", "logo"], [1, "footer-link"], ["routerLink", "/"], ["src", "assets/img/google-play.png", "alt", "google image"], ["src", "assets/img/app-store.png", "alt", "google image"], [1, "footer-widget", "pl-90"], ["href", "#"], [1, "flaticon-right"], [3, "click"], ["href", "#", "target", "_blank"], [1, "copyright-area"], [1, "row", "align-items-center"], [1, "col-lg-6", "col-md-4", "lh-1"], ["src", "assets/img/visa.png", "alt", "visa card"], ["src", "assets/img/american-express.png", "alt", "american-express"], ["src", "assets/img/discover.png", "alt", "discover"], ["src", "assets/img/master-card.png", "alt", "master card"], [1, "col-lg-6", "col-md-8", "lh-1"], ["href", "https://zaicu.cl", "target", "_blank"]],
   template: function FooterComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4)(5, "div", 5);
@@ -436,9 +436,9 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "img", 19)(94, "img", 20)(95, "img", 21)(96, "img", 22);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "div", 23)(98, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, "\u00A9 Euzan is Proudly Owned by ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, "\u00A9 Zaicu 2023 ");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "a", 24);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "HiBootstrap");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "Zaicu");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()()()();
     }
   },
@@ -510,7 +510,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
   },
   decls: 45,
   vars: 5,
-  consts: [[1, "navbar", "navbar-expand-lg", "navbar-light", "bg-light", 3, "ngClass"], [1, "container"], ["routerLink", "/", 1, "navbar-brand"], ["src", "assets/img/logo.png", "alt", "logo"], ["type", "button", 1, "navbar-toggler", 3, "click"], [1, "burger-menu"], [1, "top-bar"], [1, "middle-bar"], [1, "bottom-bar"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto"], [1, "nav-item"], [1, "nav-link", 3, "click"], [1, "navbar-nav", "ms-auto", "for-responsive"], [1, "navbar-btn"], ["routerLink", "/"]],
+  consts: [[1, "navbar", "navbar-expand-lg", "navbar-light", "bg-light", 3, "ngClass"], [1, "container"], ["routerLink", "/", 1, "navbar-brand"], ["src", "assets/img/zaicu.png", "alt", "logo"], ["type", "button", 1, "navbar-toggler", 3, "click"], [1, "burger-menu"], [1, "top-bar"], [1, "middle-bar"], [1, "bottom-bar"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto"], [1, "nav-item"], [1, "nav-link", 3, "click"], [1, "navbar-nav", "ms-auto", "for-responsive"], [1, "navbar-btn"], ["routerLink", "/"]],
   template: function NavbarComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nav", 0)(1, "div", 1)(2, "a", 2);

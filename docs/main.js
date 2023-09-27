@@ -4804,10 +4804,10 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
   template: function SassOneBannerComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4)(5, "h1");
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Make Your Business More Smarter");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Conectando profesionales de la salud y pacientes");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "The moment you focus on a goal, your goal becomes a magnet, pulling you with business and your resources toward it.");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "\u00BFEst\u00E1s listo para simplificar tu vida y tomar el control de tu tiempo? \u00A1Bienvenido a nuestra p\u00E1gina de agendamientos, donde la organizaci\u00F3n se encuentra con la comodidad! Sabemos que tu tiempo es valioso, y nuestra misi\u00F3n es hacer que cada minuto cuente. Con nuestra plataforma intuitiva y eficiente, nunca ha sido tan f\u00E1cil programar tus citas, reuniones y eventos.");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 5)(10, "a", 6);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Get Started");

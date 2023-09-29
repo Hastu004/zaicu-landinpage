@@ -340,7 +340,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "img", 6);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Our goal to make your life easier and give you a great traveling and booking service.");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Conectamos profesionales de la salud y pacientes");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 7)(10, "a", 8);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "img", 9);
@@ -369,10 +369,10 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "li")(36, "a", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Contact");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Contacto");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 3)(40, "div", 11)(41, "h3");
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "Quick Links");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "Enlaces");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "ul")(44, "li")(45, "span", 14);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_Template_span_click_45_listener() {
@@ -386,28 +386,28 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
         return ctx.onClick("home");
       });
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](50, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, " Features");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, " Caracteristicas");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "li")(53, "span", 14);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_Template_span_click_53_listener() {
         return ctx.onClick("home");
       });
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, " Screenshots");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, " Capturas de pantalla");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "li")(57, "span", 14);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_Template_span_click_57_listener() {
         return ctx.onClick("home");
       });
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](58, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, " Pricing");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, " Precios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "li")(61, "span", 14);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function FooterComponent_Template_span_click_61_listener() {
         return ctx.onClick("home");
       });
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](62, "i", 13);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, " Testimonial");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, " Testimonios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "div", 3)(65, "div", 11)(66, "h3");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "Social Pages");
@@ -589,7 +589,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Testimonials");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 14)(43, "a", 15);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Start Free Trial");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Inicial prueba gratuita");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
     }
     if (rf & 2) {

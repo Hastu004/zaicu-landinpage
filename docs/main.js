@@ -533,25 +533,25 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_15_listener() {
         return ctx.onClick("services");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "Services");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "Servicios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "li", 11)(18, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_18_listener() {
         return ctx.onClick("about");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "About Us");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Nosotros");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "li", 11)(21, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_21_listener() {
         return ctx.onClick("pricing");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Pricing");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Precios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "li", 11)(24, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_24_listener() {
         return ctx.onClick("testimonials");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Testimonials");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Testimonios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "ul", 13)(27, "li", 11)(28, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_28_listener() {
@@ -565,28 +565,28 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
         ctx.toggleClass();
         return ctx.onClick("services");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Services");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Servicios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "li", 11)(34, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_34_listener() {
         ctx.toggleClass();
         return ctx.onClick("about");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "About Us");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Nosotros");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "li", 11)(37, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_37_listener() {
         ctx.toggleClass();
         return ctx.onClick("pricing");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, "Pricing");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, "Precios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "li", 11)(40, "span", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_40_listener() {
         ctx.toggleClass();
         return ctx.onClick("testimonials");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Testimonials");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Testimonios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 14)(43, "a", 15);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Inicial prueba gratuita");

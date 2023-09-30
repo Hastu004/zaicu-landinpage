@@ -333,7 +333,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
   selectors: [["app-footer"]],
   decls: 102,
   vars: 0,
-  consts: [[1, "footer-area"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-sm-6"], [1, "footer-widget"], [1, "footer-logo"], ["src", "assets/img/zaicu.png", "alt", "logo"], [1, "footer-link"], ["routerLink", "/"], ["src", "assets/img/google-play.png", "alt", "google image"], ["src", "assets/img/app-store.png", "alt", "google image"], [1, "footer-widget", "pl-90"], ["href", "#"], [1, "flaticon-right"], [3, "click"], ["href", "#", "target", "_blank"], [1, "copyright-area"], [1, "row", "align-items-center"], [1, "col-lg-6", "col-md-4", "lh-1"], ["src", "assets/img/visa.png", "alt", "visa card"], ["src", "assets/img/american-express.png", "alt", "american-express"], ["src", "assets/img/discover.png", "alt", "discover"], ["src", "assets/img/master-card.png", "alt", "master card"], [1, "col-lg-6", "col-md-8", "lh-1"], ["href", "https://zaicu.cl", "target", "_blank"]],
+  consts: [[1, "footer-area"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-sm-6"], [1, "footer-widget"], [1, "footer-logo"], ["src", "assets/img/zaicu.svg", "alt", "logo"], [1, "footer-link"], ["routerLink", "/"], ["src", "assets/img/google-play.png", "alt", "google image"], ["src", "assets/img/app-store.png", "alt", "google image"], [1, "footer-widget", "pl-90"], ["href", "#"], [1, "flaticon-right"], [3, "click"], ["href", "#", "target", "_blank"], [1, "copyright-area"], [1, "row", "align-items-center"], [1, "col-lg-6", "col-md-4", "lh-1"], ["src", "assets/img/visa.png", "alt", "visa card"], ["src", "assets/img/american-express.png", "alt", "american-express"], ["src", "assets/img/discover.png", "alt", "discover"], ["src", "assets/img/master-card.png", "alt", "master card"], [1, "col-lg-6", "col-md-8", "lh-1"], ["href", "https://zaicu.cl", "target", "_blank"]],
   template: function FooterComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4)(5, "div", 5);
@@ -508,88 +508,90 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       }, false, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵresolveWindow"]);
     }
   },
-  decls: 45,
+  decls: 47,
   vars: 5,
-  consts: [[1, "navbar", "navbar-expand-lg", "navbar-light", "bg-light", 3, "ngClass"], [1, "container"], ["routerLink", "/", 1, "navbar-brand"], ["src", "assets/img/zaicu.png", "alt", "logo"], ["type", "button", 1, "navbar-toggler", 3, "click"], [1, "burger-menu"], [1, "top-bar"], [1, "middle-bar"], [1, "bottom-bar"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto"], [1, "nav-item"], [1, "nav-link", 3, "click"], [1, "navbar-nav", "ms-auto", "for-responsive"], [1, "navbar-btn"], ["routerLink", "/"]],
+  consts: [[1, "navbar", "navbar-expand-lg", "navbar-light", "bg-light", 3, "ngClass"], [1, "container"], ["routerLink", "/", 1, "navbar-brand"], ["src", "assets/img/zaicu.svg", "alt", "logo"], [2, "color", "white"], ["type", "button", 1, "navbar-toggler", 3, "click"], [1, "burger-menu"], [1, "top-bar"], [1, "middle-bar"], [1, "bottom-bar"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto"], [1, "nav-item"], [1, "nav-link", 3, "click"], [1, "navbar-nav", "ms-auto", "for-responsive"], [1, "navbar-btn"], ["routerLink", "/"]],
   template: function NavbarComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nav", 0)(1, "div", 1)(2, "a", 2);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 3);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "button", 4);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_button_click_4_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "span", 4);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, " Zaicu ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "button", 5);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_button_click_6_listener() {
         return ctx.toggleClass();
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span", 5);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "span", 6)(7, "span", 7)(8, "span", 8);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "span", 6);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "span", 7)(9, "span", 8)(10, "span", 9);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 9)(10, "ul", 10)(11, "li", 11)(12, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_12_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 10)(12, "ul", 11)(13, "li", 12)(14, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_14_listener() {
         return ctx.onClick("home");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "Home");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Home");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "li", 11)(15, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_15_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "li", 12)(17, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_17_listener() {
         return ctx.onClick("services");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "Servicios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Servicios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "li", 11)(18, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_18_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "li", 12)(20, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_20_listener() {
         return ctx.onClick("about");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Nosotros");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Nosotros");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "li", 11)(21, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_21_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "li", 12)(23, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_23_listener() {
         return ctx.onClick("pricing");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Precios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "Precios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "li", 11)(24, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_24_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "li", 12)(26, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_26_listener() {
         return ctx.onClick("testimonials");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Testimonios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "Testimonios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "ul", 13)(27, "li", 11)(28, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_28_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "ul", 14)(29, "li", 12)(30, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_30_listener() {
         ctx.toggleClass();
         return ctx.onClick("home");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "Home");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "Home");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "li", 11)(31, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_31_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "li", 12)(33, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_33_listener() {
         ctx.toggleClass();
         return ctx.onClick("services");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Servicios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "Servicios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "li", 11)(34, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_34_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "li", 12)(36, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_36_listener() {
         ctx.toggleClass();
         return ctx.onClick("about");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Nosotros");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](37, "Nosotros");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "li", 11)(37, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_37_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "li", 12)(39, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_39_listener() {
         ctx.toggleClass();
         return ctx.onClick("pricing");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, "Precios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "Precios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "li", 11)(40, "span", 12);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_40_listener() {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "li", 12)(42, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NavbarComponent_Template_span_click_42_listener() {
         ctx.toggleClass();
         return ctx.onClick("testimonials");
       });
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Testimonios");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, "Testimonios");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 14)(43, "a", 15);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Inicial prueba gratuita");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 15)(45, "a", 16);
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Inicial prueba gratuita");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
     }
     if (rf & 2) {

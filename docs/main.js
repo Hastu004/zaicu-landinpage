@@ -4812,7 +4812,7 @@ _class.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "\u00BFEst\u00E1s listo para simplificar tu vida y tomar el control de tu tiempo? \u00A1Bienvenido a nuestra p\u00E1gina de agendamientos, donde la organizaci\u00F3n se encuentra con la comodidad! Sabemos que tu tiempo es valioso, y nuestra misi\u00F3n es hacer que cada minuto cuente. Con nuestra plataforma intuitiva y eficiente, nunca ha sido tan f\u00E1cil programar tus citas, reuniones y eventos.");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 5)(10, "a", 6);
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Get Started");
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Comenzar");
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 7);
       _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "img", 8)(14, "img", 9)(15, "img", 10);
